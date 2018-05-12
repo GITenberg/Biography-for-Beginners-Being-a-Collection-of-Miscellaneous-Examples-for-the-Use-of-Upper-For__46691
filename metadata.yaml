@@ -1,4 +1,5 @@
 _repo: Biography-for-Beginners-Being-a-Collection-of-Miscellaneous-Examples-for-the-Use-of-Upper-For__46691
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -21,6 +22,9 @@ contributor:
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: archival
+  image_path: 46691-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -28,6 +32,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46691#Biography-for-Beginners-Being-a-Collection-of-Miscellaneous-Examples-for-the-Use-of-Upper-For_
 gutenberg_issued: '2014-08-26'
 gutenberg_type: Text
 identifiers:
